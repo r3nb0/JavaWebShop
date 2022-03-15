@@ -20,8 +20,8 @@ import models.OrderDetailModel;
 
 public class PayPalPaymentService {
 
-    private static final String CLIENT_ID = "ARmWt3Pzdvk_YZk0c5j0P8bCcP845AawlB0jVclQFgegBe_gFO-WTudbMFo_Nj0CD60xPcQipK_MQOjj";
-    private static final String CLIENT_SECRET = "ENCsaYmBCtbIfeQEV3ZKizNbbYJokowRB57KBB9hLgclCJHJlheWnPiye20BYDll5UbntCnpOb_7xZha";
+    private static final String CLIENT_ID = "********";
+    private static final String CLIENT_SECRET = "******";
     private static final String MODE = "sandbox";
     private String baseUrl = "";
 
